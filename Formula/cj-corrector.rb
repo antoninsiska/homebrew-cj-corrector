@@ -1,8 +1,8 @@
 class CjCorrector < Formula
   desc "Czech grammar correction macOS menu bar app"
   homepage "https://github.com/antoninsiska/cj-corrector"
-  url "https://github.com/antoninsiska/cj-corrector/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "49b930a79bf88a0481acd8e98e1ed7b2db69b16d774faf44adecdb30d4cd40ba"
+  url "https://github.com/antoninsiska/cj-corrector/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "4a946d06d3751e8ac1475f67ac08ad4896b32586a83035d2057defc30c62654b"
   license "MIT"
 
   depends_on :macos
